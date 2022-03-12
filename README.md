@@ -2,7 +2,7 @@
 
 ## What it is about
 
-This is a python implementation of a Telegram chatbot that can be used to check local weather in your local area.
+This is a python implementation of a Telegram chatbot that can be used to check the weather in your local area.
 
 ## Requirements
 
@@ -35,3 +35,7 @@ python bot.py
 
 You will find this bot operational and can test it yourself at:  
 https://t.me/RavenescoWeatherBot
+
+Open chat with the bot and type `/start` to initialize it.
+
+Then type `/forecast` to request weather forecast from the bot.
